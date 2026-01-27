@@ -1,0 +1,9 @@
+# Jekyll Configuration for Pivot Basketball
+
+# Clean URLs without .html extension
+permalink: pretty
+
+# Exclude files from processing
+exclude:
+  - README.md
+  - .gitignore
