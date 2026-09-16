@@ -13,6 +13,11 @@
     padding: 2.5rem;
     border-radius: 20px;
     border-left: 5px solid var(--color-accent);
+    margin-bottom: 1.5rem;
+}
+
+.season-notice:last-child {
+    margin-bottom: 0;
 }
 
 .notice-icon {
